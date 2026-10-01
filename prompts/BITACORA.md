@@ -35,7 +35,6 @@ Ver el razonamiento permite auditar la lógica empleada y detectar con precisió
 ### Comparación con el pedido de una sola vez:
 Mientras que el pedido directo generó una respuesta genérica y superficial, la descomposición por pasos permitió estructurar el sistema progresivamente, obteniendo un diseño modular, detallado y con código directamente funcional.
 ##	Ejercicio	6:	Prompt estructurado y autocritica
-## Ejercicio 6: Prompt estructurado y autocritica
 
 ```text
 <rol>Actua como analista de pruebas de software.</rol>
